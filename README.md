@@ -2,11 +2,14 @@
 Usefull links to web development
 
 ### Markdown
-* [Stackedit](https://stackedit.io/editor)Online markdown editor
+* [Stackedit](https://stackedit.io/editor) Online markdown editor
 * [Markdown to PDF](http://www.markdowntopdf.com/) Online markdown to PDF converter
 
 ### Icons & Favicons
 * [Fontawesome favicon](http://paulferrett.com/fontawesome-favicon/)
+* [OctoIcons](https://github.com/github/octicons)
+* [Flags](https://github.com/lipis/flag-icon-css)
+* [Payment](https://github.com/orlandotm/payment-webfont)
 
 ### Reference
 * [Can I Use](http://caniuse.com/) 
